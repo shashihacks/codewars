@@ -4,7 +4,7 @@ function digital_root(n) {
       numArray.push(parseInt(element))
     });
     const reducer = (accumulator, currentValue) => accumulator + currentValue;
-    while(numArray.length>1) {
+    while(numArray.length > 1) {
       n = numArray.reduce(reducer).toString().split('');
       numArray = [];
       n.forEach(element => {
