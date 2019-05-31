@@ -11,3 +11,6 @@ parity_outlier.js https://www.codewars.com/kata/find-the-parity-outlier/train/ja
 
 # Replace With Alphabet Position
 alphabet_position_6kyu.js  https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript 
+
+# Who Likes It
+likes_6kyu.js https://www.codewars.com/kata/who-likes-it/train/javascript
